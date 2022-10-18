@@ -1,26 +1,7 @@
-<h1 align="center">Hi 👋, I'm Siamak D</h1>
-<h3 align="center">Back-End Developer🌟.</h3>
-
-
-<br>
-<br>
-
-
-- 🌱 I’m currently learning other programming languages
-
-- 📫 How to reach me **siamakdals@gmail.com**
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://telegram.me/s_n_m_d" target="blank">Telegram</a>
 </p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">-</p>
 
 <br>
 
